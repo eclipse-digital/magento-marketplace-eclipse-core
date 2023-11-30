@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Config:etc/system_file.xsd">
+    <system>
+        <tab id="eclipse_modules" translate="label" class="eclipse-tab" sortOrder="1000">
+            <label>Eclipse</label>
+        </tab>
+    </system>
+</config>

@@ -1,0 +1,24 @@
+{
+    "name": "eclipse-digital/core",
+    "description": "Eclipse Core Module",
+    "type": "magento2-module",
+    "license": [
+        "OSL-3.0",
+        "AFL-3.0"
+    ],
+    "require": {
+        "php": "~8.1.0"
+    },
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Eclipse\\Core\\": ""
+        }
+    },
+    "support": {
+        "email": "magento@eclipsegroup.co.uk"
+    },
+    "version": "2.0.0"
+}
