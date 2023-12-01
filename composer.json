@@ -1,5 +1,5 @@
 {
-    "name": "eclipse-digital/core",
+    "name": "eclipse/core",
     "description": "Eclipse Core Module",
     "type": "magento2-module",
     "license": [
